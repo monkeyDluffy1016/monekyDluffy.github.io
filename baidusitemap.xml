@@ -1,176 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
-    
   <url>
-    <loc>http://yoursite.com/2017/11/30/storyboard_learn/</loc>
-    <lastmod>2021-06-04T01:20:07.495Z</lastmod>
-    <data>
-        <display>
-        <title>问题记录集</title>
-        <pubTime>2017-11-29T16:00:00.000Z</pubTime>
-        
-        <tag>iOS</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>http://monkeydluffy.cn/2017/11/30/storyboard_learn/</loc>
+    <lastmod>2021-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://yoursite.com/2017/11/29/hello-world/</loc>
-    <lastmod>2021-06-04T01:20:07.492Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-11-28T16:00:00.000Z</pubTime>
-        
-        <tag>教程</tag>
-         
-        <tag>html</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>http://monkeydluffy.cn/2017/11/29/hello-world/</loc>
+    <lastmod>2021-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://yoursite.com/2017/11/28/hexo_error/</loc>
-    <lastmod>2021-06-04T01:20:07.492Z</lastmod>
-    <data>
-        <display>
-        <title>hexo 配置过程报错</title>
-        <pubTime>2017-11-28T07:49:00.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>http://monkeydluffy.cn/2017/11/28/hexo_error/</loc>
+    <lastmod>2021-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://yoursite.com/2020/12/07/iosVisualDesign/</loc>
-    <lastmod>2021-06-04T01:20:07.492Z</lastmod>
-    <data>
-        <display>
-        <title>iosVisualDesign</title>
-        <pubTime>2020-12-07T09:05:55.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>http://monkeydluffy.cn/2020/12/07/iosVisualDesign/</loc>
+    <lastmod>2021-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://yoursite.com/2021/06/04/appdoc%20%E5%9C%A8%20xcode9.1%E6%8A%A5%E9%94%99/</loc>
-    <lastmod>2021-06-04T01:20:07.491Z</lastmod>
-    <data>
-        <display>
-        <title>appdoc安装报错</title>
-        <pubTime>2021-06-04T01:20:07.491Z</pubTime>
-        
-        <tag>iOS</tag>
-         
-        <tag>Xcode</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>http://monkeydluffy.cn/2021/06/04/appdoc%20%E5%9C%A8%20xcode9.1%E6%8A%A5%E9%94%99/</loc>
+    <lastmod>2021-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://yoursite.com/2018/03/12/UMLbuilder/</loc>
-    <lastmod>2021-06-04T01:20:07.489Z</lastmod>
-    <data>
-        <display>
-        <title>构建者模式</title>
-        <pubTime>2018-03-12T02:07:08.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>http://monkeydluffy.cn/2018/03/12/UMLbuilder/</loc>
+    <lastmod>2021-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://yoursite.com/2018/03/09/UMLProtype/</loc>
-    <lastmod>2021-06-04T01:20:07.487Z</lastmod>
-    <data>
-        <display>
-        <title>UML原型模式</title>
-        <pubTime>2018-03-09T07:33:00.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>http://monkeydluffy.cn/2018/03/09/UMLProtype/</loc>
+    <lastmod>2021-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://yoursite.com/2017/12/01/React-NativeProblem/</loc>
-    <lastmod>2021-06-04T01:20:07.483Z</lastmod>
-    <data>
-        <display>
-        <title>React-NativeProblem</title>
-        <pubTime>2017-12-01T08:50:45.000Z</pubTime>
-        
-        <tag>React-Native</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>http://monkeydluffy.cn/2017/12/01/React-NativeProblem/</loc>
+    <lastmod>2021-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://yoursite.com/2018/03/09/UML/</loc>
-    <lastmod>2021-06-04T01:20:07.483Z</lastmod>
-    <data>
-        <display>
-        <title>UML 图</title>
-        <pubTime>2018-03-09T03:20:00.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>http://monkeydluffy.cn/2018/03/09/UML/</loc>
+    <lastmod>2021-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://yoursite.com/2018/03/13/Bridge/</loc>
-    <lastmod>2021-06-04T01:20:07.479Z</lastmod>
-    <data>
-        <display>
-        <title>Bridge</title>
-        <pubTime>2018-03-13T06:12:16.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-</urlset>
+    <loc>http://monkeydluffy.cn/2018/03/13/Bridge/</loc>
+    <lastmod>2021-06-04</lastmod>
+  </url>
+</urlset> 
