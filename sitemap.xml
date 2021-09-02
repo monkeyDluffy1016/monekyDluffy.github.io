@@ -72,14 +72,14 @@
   </url>
   
   <url>
-    <loc>http://monkeydluffy.cn/2017/12/01/React-NativeProblem/</loc>
+    <loc>http://monkeydluffy.cn/2018/03/09/UML/</loc>
     
     <lastmod>2021-06-04</lastmod>
     
   </url>
   
   <url>
-    <loc>http://monkeydluffy.cn/2018/03/09/UML/</loc>
+    <loc>http://monkeydluffy.cn/2017/12/01/React-NativeProblem/</loc>
     
     <lastmod>2021-06-04</lastmod>
     
@@ -109,13 +109,6 @@
 
   
   <url>
-    <loc>http://monkeydluffy.cn/tags/React-Native/</loc>
-    <lastmod>2021-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://monkeydluffy.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2021-09-02</lastmod>
     <changefreq>daily</changefreq>
@@ -137,6 +130,20 @@
   </url>
   
   <url>
+    <loc>http://monkeydluffy.cn/tags/React-Native/</loc>
+    <lastmod>2021-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkeydluffy.cn/tags/charls/</loc>
+    <lastmod>2021-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://monkeydluffy.cn/tags/hexo/</loc>
     <lastmod>2021-09-02</lastmod>
     <changefreq>daily</changefreq>
@@ -152,13 +159,6 @@
   
   <url>
     <loc>http://monkeydluffy.cn/tags/html/</loc>
-    <lastmod>2021-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkeydluffy.cn/tags/charls/</loc>
     <lastmod>2021-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
