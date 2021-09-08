@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://monkeydluffy.cn/2021/09/08/ios%E8%87%AA%E5%8A%A8%E5%8C%96%E8%84%9A%E6%9C%AC%E6%89%93%E5%8C%85/</loc>
+    
+    <lastmod>2021-09-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://monkeydluffy.cn/2021/07/08/linux-shell/</loc>
     
     <lastmod>2021-09-02</lastmod>
@@ -95,7 +102,7 @@
 
   <url>
     <loc>http://monkeydluffy.cn/</loc>
-    <lastmod>2021-09-02</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -103,56 +110,56 @@
   
   <url>
     <loc>http://monkeydluffy.cn/tags/React-Native/</loc>
-    <lastmod>2021-09-02</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://monkeydluffy.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2021-09-02</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://monkeydluffy.cn/tags/iOS/</loc>
-    <lastmod>2021-09-02</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://monkeydluffy.cn/tags/Xcode/</loc>
-    <lastmod>2021-09-02</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://monkeydluffy.cn/tags/charls/</loc>
-    <lastmod>2021-09-02</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://monkeydluffy.cn/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-09-02</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://monkeydluffy.cn/tags/html/</loc>
-    <lastmod>2021-09-02</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://monkeydluffy.cn/tags/hexo/</loc>
-    <lastmod>2021-09-02</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
